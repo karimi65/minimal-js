@@ -1,5 +1,3 @@
-# Minimal JavaScript for Rails Developers
+# JavaScript: The Slimmest Guide
 
-- Make a delete link
-- Make it Ajax
-- 
+[Detailed notes here.](https://chapters.firstdraft.com/chapters/892)
