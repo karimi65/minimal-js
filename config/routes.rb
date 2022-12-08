@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  root "misc#try_js"
+  root "misc#home"
 end
